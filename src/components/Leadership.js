@@ -9,7 +9,7 @@ const Leadership = () => {
       <VStack spacing={4} align="start" maxW="800px" mx="auto">
         <Box>
           <Heading fontSize="xl" mb={2}>
-            Director of IT - All Armenian Students Association
+            Director of Professional Affairs - All Armenian Students Association
           </Heading>
           <Text>
             - Led a team to establish the first global mentorship program for Armenian students.

@@ -4,7 +4,7 @@ const Experience = () => {
   const experiences = [
     {
       title: "Software Engineer Intern - Workiva",
-      duration: "May 2024 – Present",
+      duration: "May 2024 – Dec 2024",
       location: "New York, NY",
       details: [
         "Enhanced UI with Dart and React, increasing user efficiency by 35%.",
