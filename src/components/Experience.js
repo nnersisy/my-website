@@ -3,6 +3,22 @@ import { Box, Heading, VStack, Text } from "@chakra-ui/react";
 const Experience = () => {
   const experiences = [
     {
+      title: "Course Producer/TA - USC Viterbi School of Engineering",
+      duration: "Jan 2025 - Present",
+      location: "Los Angeles, CA",
+      details: [
+        "Serve as a Course Producer for CSCI 350 (Operating Systems), hosting weekly ad-hoc mentoring sessions for xv6 programming projects, grading within deadlines, handling regrade requests, and providing timely support on Piazza.",
+      ],
+    },
+    {
+      title: "Undergraduate Researcher - USC Institute of Creative Technologies",
+      duration: "Jan 2025 - Present",
+      location: "Los Angeles, CA",
+      details: [
+        "Developing and evaluating advanced negotiating agents and contributing to the open-source OpenSense framework.",
+      ],
+    },
+    {
       title: "Software Engineer Intern - Workiva",
       duration: "May 2024 – Dec 2024",
       location: "New York, NY",
